@@ -1,0 +1,27 @@
+{
+  "name": "typedefinejs",
+  "version": "0.0.0",
+  "description": "typedefinejs ============",
+  "main": "typedefine.js",
+  "dependencies": {
+    "underscore": "~1.4.4"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-typescript": "~0.1.5",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-watch": "~0.4.3",
+    "grunt-contrib-jshint": "~0.4.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bazer/typedefinejs.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "20ce70dcca96ce0cc0855c5ee3490c09b443c577"
+}
